@@ -1,6 +1,6 @@
 # Default crop catalog
 
-The default catalog contains 13 crops. These values come from a fresh **0.12.0-SNAPSHOT** installation. A server's configuration and in-game crop pages take precedence after customization.
+The default catalog contains 13 crops. These values come from a fresh **0.13.0-SNAPSHOT** installation. A server's configuration and in-game crop pages take precedence after customization.
 
 | Crop ID | Seed | Harvest | Growth | Regrowth | Minimum light | Planting support |
 | --- | --- | --- | --- | --- | --- | --- |

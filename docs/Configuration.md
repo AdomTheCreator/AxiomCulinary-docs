@@ -4,6 +4,7 @@ All paths below are inside `plugins/AxiomCulinary/`.
 
 ```text
 config.yml
+minigames.yml
 content/
   stations/<id>.yml
   crops/<id>.yml
@@ -63,6 +64,10 @@ visuals:
 ```
 
 The tag is plain text and always white. Colours use six-digit hex strings. Model choices belong to the station/crop files, not this global visual-feedback section.
+
+## Station games and difficulty
+
+`minigames.yml` defines reusable difficulty profiles. Select one in the station definition with `minigame: rhythm_normal`. Without that field, or with `minigame: recipe`, the original recipe behavior is retained. See [Minigames](Minigames.md) for the four games, limits and saved-batch behavior.
 
 ## Reload safely
 

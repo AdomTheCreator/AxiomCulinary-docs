@@ -1,6 +1,8 @@
-# Timing minigame and food quality
+# Cooking quality
 
-During a TIMING step, right-click the **station** when the white cursor crosses the green centre. Usually use an empty main hand; a custom recipe can name a required tool. Do not click the floating text entity itself.
+For the new rhythm, reaction and stirring games, see [Minigames](Minigames.md). All four games use the same quality tiers.
+
+During a recipe-only TIMING step, right-click the **station** when the white cursor crosses the green centre. Usually use an empty main hand; a custom recipe can name a required tool. Do not click the floating text entity itself.
 
 The default preset uses two rounds of three seconds. The first valid click in a round is the judgement for that round. Extra clicks do not improve it. A round that expires without a judgement scores zero. Wait for the next round after a judgement.
 

@@ -4,7 +4,7 @@
 
 Grow ingredients, prepare food at physical workstations and improve meals through cooking. AxiomCulinary is part of the **Axiom** suite.
 
-This public repository contains documentation only. Plugin source code and JAR files remain private; no plugin download is published here. Current documentation targets **0.12.0-SNAPSHOT**, Paper 26.3 and Java 25.
+This public repository contains documentation only. Plugin source code and JAR files remain private; no plugin download is published here. Current documentation targets **0.13.0-SNAPSHOT**, Paper 26.3 and Java 25.
 
 ## Read the guides
 
@@ -18,6 +18,7 @@ This public repository contains documentation only. Plugin source code and JAR f
 - [Stations](docs/Stations.md)
 - [Recipes](docs/Recipes.md)
 - [Recipe Catalog](docs/Recipe-Catalog.md)
+- [Minigames](docs/Minigames.md)
 - [Cooking Quality](docs/Cooking-Quality.md)
 - [Food and Drinks](docs/Food-and-Drinks.md)
 - [Configuration](docs/Configuration.md)

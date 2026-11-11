@@ -1,6 +1,6 @@
 # Compatibility and verification
 
-Documentation baseline: **0.12.0-SNAPSHOT**, verified on **11 November 2026**.
+Documentation baseline: **0.13.0-SNAPSHOT**, verified on **11 November 2026**.
 
 | Component | Verified combination |
 | --- | --- |
@@ -17,11 +17,11 @@ These are tested combinations, not a claim that every version or server fork wor
 
 | Suite | Checks | Scope |
 | --- | --- | --- |
-| Unit tests | 31 | Rules, quality, timing, model choices, water charges and grouped-file validation |
-| Configuration/server suite | 319 | Converted catalog, all items, 32 stations, 52 crop phases, wet soil, floors and retired-component recovery |
-| Fresh installation | 319 repeated checks | Same suite starting without old catalogs |
+| Unit tests | 41 | Rules, quality, timing, model choices, water charges and grouped-file validation |
+| Configuration/server suite | 377 | Converted catalog, all items, 32 stations, 52 crop phases, wet soil, floors, all four games, profile snapshots and retired-component recovery |
+| Fresh installation | 377 repeated checks | Same suite starting without old catalogs |
 | Provider suite | 54 | Real Nexo/CraftEngine APIs, item identity, food, bottles, charges and mixed model stages |
-| Connected-player suite | 92 | Real server players, menus, permissions, cooking, watering and floor replacement |
+| Connected-player suite | 104 | Real server players, menus, permissions, cooking, watering, floor replacement and new game clicks |
 
 Fresh-install checks repeat the same scenarios and are not additional distinct cases. The provider test disables the providers at the end intentionally to verify unavailable-provider behavior.
 

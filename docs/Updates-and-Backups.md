@@ -1,6 +1,10 @@
 # Updates and backups
 
-## Update to 0.12.0
+## Update from 0.12 to 0.13
+
+After a normal stopped-server JAR update, `minigames.yml` is created if missing. Existing station files are not overwritten. With no minigame selection, existing recipes keep their previous behavior. Select a profile per station to enable the new games. Effective profiles are stored with new batches, and older versions cannot read new MINIGAME snapshots: keep a coherent backup for rollback.
+
+## First conversion introduced in 0.12.0
 
 1. Stop the server.
 2. Back up the **whole world/player data and the complete AxiomCulinary folder together**.

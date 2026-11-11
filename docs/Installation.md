@@ -20,7 +20,7 @@ The default content needs no resource pack. External models require the appropri
 4. Check that AxiomCulinary enabled successfully and run `/culinary` in game.
 5. Open `plugins/AxiomCulinary/config.yml` for messages and visual feedback, and `plugins/AxiomCulinary/content/` for content definitions.
 
-The supplied build is named `AxiomCulinary-0.12.0-SNAPSHOT.jar`; the filename itself does not configure the plugin. Do not install test/probe JARs alongside it.
+The supplied build is named `AxiomCulinary-0.13.0-SNAPSHOT.jar`; the filename itself does not configure the plugin. Do not install test/probe JARs alongside it.
 
 ## First configuration
 

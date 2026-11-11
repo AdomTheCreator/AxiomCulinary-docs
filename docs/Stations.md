@@ -59,6 +59,10 @@ Break and replace the block **below** a station as you would any other floor. Yo
 
 Crop support blocks are different: remove the crop before breaking its farmland or supporting fence.
 
+## Select a minigame
+
+Set `stations.<id>.minigame` to a profile such as `rhythm_normal`, `reaction_easy` or `balance_hard`. Profiles are configured in `minigames.yml`. The game is shown in the station menu and its effective recipe steps. See [Minigames](Minigames.md).
+
 ## Configure a station
 
 `content/stations/<id>.yml` contains its inventory item, station settings, processing recipes and placed model. The `block` field is the station's own interaction block, usually `BARRIER`; it is not the floor below it. See [Configuration](Configuration.md) and [Models and providers](Models-and-Providers.md).

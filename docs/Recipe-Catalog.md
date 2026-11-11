@@ -1,6 +1,6 @@
 # Default processing recipe catalog
 
-All **69 processing recipes** below are taken from a fresh 0.12.0-SNAPSHOT configuration after preset conversion. Ingredient IDs, result IDs and the configured work are shown as stored. Customized servers may differ; use their in-game menus as the authority.
+All **69 processing recipes** below are taken from a fresh 0.13.0-SNAPSHOT configuration after preset conversion. Ingredient IDs, result IDs and the configured work are shown as stored. Customized servers may differ; use their in-game menus as the authority.
 
 | Recipe ID | Station | Initial ingredients | Result | Work |
 | --- | --- | --- | --- | --- |

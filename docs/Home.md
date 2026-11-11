@@ -2,7 +2,7 @@
 
 Grow ingredients, prepare them at physical workstations and serve food whose quality reflects the cooking process. AxiomCulinary is part of the **Axiom** suite.
 
-This wiki covers **0.12.0-SNAPSHOT** for **Paper 26.3 and Java 25**. The default catalog has **13 crops, 32 stations and 69 processing recipes**. Menus, built-in station models and crop models work without a client mod or resource pack.
+This wiki covers **0.13.0-SNAPSHOT** for **Paper 26.3 and Java 25**. The default catalog has **13 crops, 32 stations and 69 processing recipes**. Menus, built-in station models and crop models work without a client mod or resource pack.
 
 ## Start here
 
@@ -20,6 +20,7 @@ This wiki covers **0.12.0-SNAPSHOT** for **Paper 26.3 and Java 25**. The default
 | [Stations](Stations.md) | Prepare food, manage heat and change the floor underneath |
 | [Recipes](Recipes.md) | Follow ingredients, tools and timed steps |
 | [Recipe catalog](Recipe-Catalog.md) | Look up all 69 default processing recipes |
+| [Minigames](Minigames.md) | Choose timing, rhythm, reaction or stirring and difficulty |
 | [Cooking quality](Cooking-Quality.md) | Play the timing minigame and improve meals |
 | [Food and drinks](Food-and-Drinks.md) | Make juices, wine, beer, tea and meals |
 

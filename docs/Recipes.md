@@ -12,7 +12,7 @@ Use `/culinary recipes [station]` for the current server catalog. Initial ingred
 | HEAT | Provide heat for the requested duration |
 | ATTEND | Heat and respond to stirring prompts |
 | SERVE | Respond within the service window |
-| TIMING | Click near the centre of the moving timing bar |
+| TIMING / MINIGAME | Play the configured station game; recipe-only behavior uses the timing bar |
 
 Missed prompts can reduce quality or burn a result, depending on the recipe. Empty-hand actions and tool actions are distinct. Tools used for a manual step are not consumed as ingredients.
 
