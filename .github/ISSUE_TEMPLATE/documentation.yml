@@ -1,0 +1,16 @@
+name: Documentation issue
+description: Report an unclear or incorrect guide
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Wiki page or guide
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correcting?
+      description: Include the plugin version and the expected wording. Remove private server information before posting.
+    validations:
+      required: true
